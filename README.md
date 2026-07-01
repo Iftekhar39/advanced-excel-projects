@@ -1,4 +1,4 @@
-# advanced-excel-projects
+# Advanced-excel-projects
 # Advanced Excel Functions & Data Analysis Projects
 
 ## Project Overview
